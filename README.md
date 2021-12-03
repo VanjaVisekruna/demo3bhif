@@ -1,2 +1,2 @@
 # demo3bhif
-First project for SYP-lessons
+First project for SYP-lessons!
